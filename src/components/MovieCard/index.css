@@ -1,0 +1,22 @@
+.movie-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.movie-card-image {
+  height: 200px;
+  width: 200px;
+}
+
+.sub-container {
+}
+
+.movie-title {
+}
+
+.movie-rating {
+}
+
+.movie-button {
+}
